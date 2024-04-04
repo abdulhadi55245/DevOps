@@ -1,0 +1,7 @@
+> CI/CD enables faster and more reliable application delivery by automating essential steps like testing, analysis, and deployment.
+> Tools like Jenkins act as orchestrators, streamlining the CI/CD process and integrating various tools for seamless automation.
+> Continuous integration ensures that code changes are integrated regularly, allowing for early detection of issues and faster development cycles.
+> Continuous delivery ensures that the application is always in a releasable state, with automated testing and quality assurance checks.
+> Application delivery requires thorough testing, security checks, and deployment to a platform accessible by customers.
+> Automation of these steps in the CI/CD pipeline saves time, improves efficiency, and reduces the risk of human error.
+> CI/CD is essential for modern applications, especially with the rise of technologies like Kubernetes, where legacy CI/CD setups are not scalable enough.
