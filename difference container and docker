@@ -8,3 +8,18 @@ system, and Docker Compose, which is used for defining and running multi-contain
 In summary, containers are the technology that allows you to package and run applications in an isolated environment, while Docker is a specific implementation of container technology 
 that provides tools and a platform for building, managing, and deploying containers.
 
+💡 Virtual machines solved the resource utilization problem of physical servers, but containers provide even greater efficiency by reducing resource wastage. They allow for running multiple
+applications on the same physical server or virtual machine, effectively utilizing resources.
+💡 Containers offer logical isolation by creating a virtual operating system for each application, ensuring security and separation. However, they have some drawbacks compared to virtual 
+machines, such as less complete isolation and potential security concerns.
+💡 Containerization can be done on top of virtual machines or physical servers/cloud providers. Model 2, where containers are created on top of virtual machines, is becoming more popular 
+due to reduced maintenance overhead and the shift towards cloud providers.
+💡 The use of a containerization platform like Docker is essential for creating and managing containers. Docker can be installed on the host operating system of a physical server or a 
+virtual machine to facilitate containerization.
+💡 Organizations are increasingly adopting containers on virtual machines or cloud providers to reduce maintenance costs and take advantage of the scalability and flexibility offered 
+by these platforms.
+💡 Understanding the basics of containers is crucial before diving into advanced concepts like container projects and interactions between containers. Docker is a widely popular 
+containerization platform that will be explored in detail in future classes.
+💡 Building projects using Builder is another important aspect of the DevOps course. Builder integrates well with modern tools like Scorpio and Podman, and having knowledge of Builder is 
+beneficial for working on complex projects.
+
