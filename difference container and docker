@@ -1,0 +1,10 @@
+Docker" and "containers" are closely related concepts in the world of software development and deployment, but they are not exactly the same thing. Here's the difference:
+1.	Containers: A container is a lightweight, standalone, and executable software package that includes everything needed to run a piece of software, including the code, 
+runtime, system tools, libraries, and settings. Containers are isolated from each other and from the host system, ensuring that they run consistently regardless of the environment. 
+They provide a way to package and distribute applications along with their dependencies in a consistent and portable manner.
+2.	Docker: Docker is a platform and set of tools that simplifies the process of building, managing, and deploying containers. Docker provides a way to package applications into 
+containers using a standardized format called Docker containers. It also includes tools for managing containers, such as Docker Engine, which is responsible for running containers on a host 
+system, and Docker Compose, which is used for defining and running multi-container applications.
+In summary, containers are the technology that allows you to package and run applications in an isolated environment, while Docker is a specific implementation of container technology 
+that provides tools and a platform for building, managing, and deploying containers.
+
