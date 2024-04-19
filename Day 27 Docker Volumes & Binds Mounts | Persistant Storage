@@ -1,0 +1,7 @@
+ 💡 The lack of persistent storage in Docker containers can lead to data loss and hinder data-driven operations such as auditing and analytics.
+💡 Bind mounts solve the problem of data persistence by binding directories on the host to directories in the container, ensuring that data is preserved even if the container is restarted or replaced.
+💡 Volumes offer a more flexible and scalable solution for data persistence by creating logical partitions on the host that can be attached to multiple containers. They also allow for easy backup and migration of data to external storage devices.
+💡 The use of bind mounts or volumes is crucial for applications that require continuous data storage or sharing between containers, such as front-end and back-end systems.
+💡 Volumes provide better scalability and portability compared to bind mounts, as they can be created on any host or external storage device.
+💡 Docker CLI provides user-friendly commands for managing volumes, allowing for easy creation, deletion, and attachment to containers.
+💡 Understanding the difference between bind mounts and volumes is essential for effectively managing data persistence in Docker containers.
